@@ -1,2 +1,0 @@
-rsconnect::setAccountInfo(name='pipet', token='0BBE8ECF43899C74604E568884450627', secret='af9cW4ex07lpdvZYwrdVe7EGbbcjlyGb8yiEqedG')
-rsconnect::deployApp(account="pipet", appName="mcrm")

@@ -1,4 +1,3 @@
-library(descr)
 library(ordcrm)
 library(MASS)
 library(optparse)
